@@ -1,0 +1,15 @@
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Spark / Hadoop output
+_SUCCESS
+*.crc
+*.parquet
+
+# System files
+.DS_Store
